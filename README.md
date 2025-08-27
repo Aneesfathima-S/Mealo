@@ -2,7 +2,6 @@
 
 Mealo is an **AI-powered personalized nutrition planning web application** built with the **MERN stack (MongoDB, Express.js, React, Node.js)** and **Gemini AI**. It generates customized meal plans based on user preferences, health goals, and regional food choices.
 
----
 
 ## Features
 
