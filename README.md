@@ -22,6 +22,6 @@ Mealo is an **AI-powered personalized nutrition planning web application** built
 - **AI Integration:** Gemini AI  
 - **Authentication:** Firebase Google OAuth
   
-##Working
+## Working
 
 https://github.com/user-attachments/assets/869890ed-d3ca-4462-a3d9-3db6b776e644 
