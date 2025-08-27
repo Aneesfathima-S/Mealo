@@ -12,7 +12,6 @@ Mealo is an **AI-powered personalized nutrition planning web application** built
 - **Secure Authentication** – Supports OAuth login (Google) and JWT-based authentication.  
 - **Intuitive UI/UX** – Built with React and state management for a seamless experience.
 
----
 
 ## Tech Stack
 
