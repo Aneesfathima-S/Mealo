@@ -1,0 +1,25 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+.env.*.secret
+
+# Firebase keys
+serviceAccountKey.json
+firebase-adminsdk*.json
+
+# Node modules
+node_modules/
+
+# Builds
+build/
+dist/
+
+# Logs
+*.log
+logs/
+
+# IDE/OS files
+.DS_Store
+.vscode/
+.idea/
